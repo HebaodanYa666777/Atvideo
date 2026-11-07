@@ -1,0 +1,21 @@
+{
+  "atvideo.message.welcome": "§9[atvideo] §7荷包蛋的视频播放器模组已成功加载！可使用 §e/atvideo @s 文件名.mp4 100 30hz 0 0 false true §7播放视频！",
+
+  "atvideo.command.missing_file": "§c缺少文件名",
+  "atvideo.command.verb.play": "播放",
+  "atvideo.command.verb.preload": "预加载",
+  "atvideo.command.verb.stop": "停止",
+  "atvideo.command.verb.unpreload": "释放预加载",
+  "atvideo.command.success": "§a已发送%1$s给 %2$s 名玩家",
+
+  "atvideo.suggest.file": "file 视频文件名（例如 文件名.mp4）",
+  "atvideo.suggest.fps_60": "帧率 60",
+  "atvideo.suggest.fps_30": "帧率 30",
+  "atvideo.suggest.volume": "音量 0-100",
+  "atvideo.suggest.fadein": "淡入秒数",
+  "atvideo.suggest.fadeout": "淡出秒数",
+  "atvideo.suggest.alpha": "是否透明背景",
+  "atvideo.suggest.autoclose": "播完自动关闭",
+  "atvideo.command.no_players": "§c目标选择器没有选中任何玩家",
+  "atvideo.command.invalid_selector": "§c无效的目标选择器：%1$s（%2$s）"
+}

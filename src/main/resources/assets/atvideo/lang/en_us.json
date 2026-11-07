@@ -1,0 +1,21 @@
+{
+  "atvideo.message.welcome": "§9[atvideo] §7Hobadan's Video Player mod loaded successfully! Use §e/atvideo @s filename.mp4 100 30hz 0 0 false true §7to play videos!",
+
+  "atvideo.command.missing_file": "§cMissing file name",
+  "atvideo.command.verb.play": "play",
+  "atvideo.command.verb.preload": "preload",
+  "atvideo.command.verb.stop": "stop",
+  "atvideo.command.verb.unpreload": "unpreload",
+  "atvideo.command.success": "§aSent %1$s to %2$s player(s)",
+
+  "atvideo.suggest.file": "file Video file name (e.g. filename.mp4)",
+  "atvideo.suggest.fps_60": "FPS 60",
+  "atvideo.suggest.fps_30": "FPS 30",
+  "atvideo.suggest.volume": "Volume 0-100",
+  "atvideo.suggest.fadein": "Fade-in seconds",
+  "atvideo.suggest.fadeout": "Fade-out seconds",
+  "atvideo.suggest.alpha": "Transparent background",
+  "atvideo.suggest.autoclose": "Close after finished",
+  "atvideo.command.no_players": "§cThe target selector did not match any players",
+  "atvideo.command.invalid_selector": "§cInvalid target selector: %1$s (%2$s)"
+}
